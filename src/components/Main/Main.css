@@ -187,13 +187,9 @@
 }
 
 @media (max-width:600px) {
-    .main-bottom {
-        position: relative;
-    }
-
     .main-bottom input {
         flex: none;
-        width: 150px;
+        width: 300px;
     }
 
     .main-bottom img {
